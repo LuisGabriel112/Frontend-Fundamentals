@@ -1,0 +1,17 @@
+p{
+    color: #4c4646;
+    font-family: verdana;
+    font-size: 30px;
+
+}
+body{
+    background-color: #fffbf7;
+}
+input{
+    color: yellow;
+    background-color: #025157;
+}
+h1 {
+    color: #46484c;
+    text-align: center;
+}
